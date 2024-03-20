@@ -1,0 +1,30 @@
+ /* Estilos para o efeito parallax */
+ .parallax {
+    /* Ajuste a altura conforme necessário */
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* Estilos específicos para cada seção de parallax */
+  .parallax1 {
+    background-image: url('https://www.iamthecode.org/wp-content/uploads/2021/03/florian-olivo-4hbJ-eymZ1o-unsplash-scaled-e1616631053918.jpg'); /* Substitua 'image1.jpg' pelo seu próprio arquivo de imagem */
+  }
+
+  .parallax2 {
+    background-image: url('https://www.iamthecode.org/wp-content/uploads/2021/03/florian-oli    vo-4hbJ-eymZ1o-unsplash-scaled-e1616631053918.jpg'); /* Substitua 'image2.jpg' pelo seu próprio arquivo de imagem */
+  }
+
+  .parallax3 {
+    background-image: url('https://www.iamthecode.org/wp-content/uploads/2021/03/florian-olivo-4hbJ-eymZ1o-unsplash-scaled-e1616631053918.jpg'); /* Substitua 'image3.jpg' pelo seu próprio arquivo de imagem */
+  }
+
+  /* Estilo para o conteúdo dentro das seções de parallax */
+  .parallax-content {
+    color: #fff;
+    padding-top: 100px; /* Ajuste conforme necessário */
+  }
+
+  /*---------------------------------------------------------------------------------------------------*/
