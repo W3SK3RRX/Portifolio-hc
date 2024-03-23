@@ -109,9 +109,10 @@
  /*----------------------------------------------------------------------------------------------*/
   @import url('https://fonts.googleapis.com/css?family=Baloo+Thambi');
   .container{
-    font-family: 'Baloo Thambi', cursive;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 3rem;
     font-weight: bolder;
+    border: lime;
   }
 
   .container > span{
