@@ -15,7 +15,7 @@
 
   /* Estilos específicos para cada seção de parallax */
   .parallax1 {
-    background-image: url('/assets/media/testeimg.png'); /* Substitua 'image1.jpg' pelo seu próprio arquivo de imagem */
+    background-image: url('./assets/media/testeimg.png'); /* Substitua 'image1.jpg' pelo seu próprio arquivo de imagem */
   }
 
   /* Estilo para o conteúdo dentro das seções de parallax */
