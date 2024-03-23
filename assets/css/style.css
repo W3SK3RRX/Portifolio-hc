@@ -15,23 +15,7 @@
 
   /* Estilos específicos para cada seção de parallax */
   .parallax1 {
-    background-image: url('assets/media/ddd.jpg'); /* Substitua 'image1.jpg' pelo seu próprio arquivo de imagem */
-  }
-
-  .parallax2 {
-    background-image: url('/assets/media/ddd.jpg'); /* Substitua 'image2.jpg' pelo seu próprio arquivo de imagem */
-  }
-
-  .parallax3 {
-    background-image: url('/assets/media/ddd.jpg'); /* Substitua 'image3.jpg' pelo seu próprio arquivo de imagem */
-  }
-
-  .parallax4 {
-    background-image: url('/assets/media/ddd.jpg'); /* Substitua 'image3.jpg' pelo seu próprio arquivo de imagem */
-  }
-
-  .parallax5 {
-    background-image: url('/assets/media/ddd.jpg'); /* Substitua 'image3.jpg' pelo seu próprio arquivo de imagem */
+    background-image: url('/assets/media/ddd.jpg'); /* Substitua 'image1.jpg' pelo seu próprio arquivo de imagem */
   }
 
   /* Estilo para o conteúdo dentro das seções de parallax */
